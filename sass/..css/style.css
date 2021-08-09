@@ -1,0 +1,87 @@
+.container .collapse > a {
+  color: #3CA7C8;
+  border-radius: 10px;
+  border: 2px solid #3CA7C8;
+}
+.container .collapse > a:hover {
+  color: white;
+  background: #3CA7C8;
+}
+
+.banner {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../image/b.jpg");
+  background-size: cover;
+  background-position: center, center;
+}
+.banner .blur {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}
+.banner .banner-cont > a {
+  font-size: 100px;
+  color: white;
+}
+.banner .banner-cont .cont h1 {
+  font-size: 45px;
+  line-height: 45px;
+}
+.banner .banner-cont .cont a {
+  text-decoration: none;
+  color: #3CA7C8;
+}
+
+.service {
+  background: #42B8DD;
+}
+.service h2 {
+  font-size: 65px;
+  line-height: 55px;
+  color: white;
+  text-transform: uppercase;
+}
+.service hr {
+  border: none;
+  height: 8px;
+  background: white;
+}
+.service .ser-cont h3 {
+  font-size: 15px;
+  line-height: 13px;
+  color: white;
+  text-transform: uppercase;
+}
+.service .ser-cont p {
+  font-size: 12px;
+  color: whitesmoke;
+}
+.service .service-box {
+  margin-bottom: 50px;
+}
+.service .service-box a {
+  border-radius: 50%;
+  border: 2px solid white;
+  display: table;
+  text-align: center;
+  padding: 15px;
+}
+.service .service-box i {
+  font-size: 30px;
+  height: 50px;
+  width: 50px;
+  line-height: 50px;
+  color: white;
+}
+
+.icon a {
+  color: #42B8DD;
+  font-size: 30px;
+}
+
+.work h2 {
+  font-size: 40px;
+}
+
+/*# sourceMappingURL=style.css.map */

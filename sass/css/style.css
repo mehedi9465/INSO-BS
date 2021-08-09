@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font: 1em sans-serif; }
+
+.menu {
+  background: aqua; }
+  .menu .mid {
+    width: 80%;
+    margin: auto; }
+    .menu .mid ul {
+      list-style: none; }
+      .menu .mid ul li {
+        display: inline-block; }
+        .menu .mid ul li a {
+          text-decoration: none;
+          display: block;
+          color: #FFF;
+          padding: 10px 20px; }
+          .menu .mid ul li a:hover {
+            background: red; }
+
+/*# sourceMappingURL=style.css.map */

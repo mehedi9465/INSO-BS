@@ -1,0 +1,151 @@
+/*------------Home Start-----------*/
+.navbar {
+  background-color: #0B1D2F;
+}
+.navbar .container {
+  width: 75%;
+}
+.navbar .container #aaa ul li {
+  margin: 0px 10px;
+}
+.navbar .container #aaa ul li:hover {
+  background-color: #0A2643;
+}
+.navbar .container #aaa ul li a {
+  text-transform: uppercase;
+  font-size: 14px;
+}
+.navbar .container .btn {
+  font-size: 13px;
+}
+
+.bodyContent {
+  width: 100%;
+  height: 100vh;
+  background: url("../image/16333.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.bodyContent .container .homeContent h1 {
+  text-align: center;
+}
+.bodyContent .container .options a {
+  text-transform: uppercase;
+  font-size: 14px;
+}
+.bodyContent .container .options a:hover {
+  background-color: #0278F2;
+  color: #FFF;
+}
+
+/*------------Home End-----------*/
+/*------------Service Start-----------*/
+.Services .mid {
+  width: 60%;
+}
+.Services .mid .heading p {
+  text-transform: uppercase;
+  font-size: 14px;
+}
+.Services .mid .heading h3 {
+  text-transform: capitalize;
+  font-size: 22px;
+}
+.Services .mid .find a {
+  text-transform: uppercase;
+  color: black;
+  font-size: 13px;
+  border-width: 2px;
+}
+.Services .mid .find a:hover {
+  color: white;
+}
+.Services .serviceOptions {
+  width: 73%;
+}
+.Services .serviceOptions .box {
+  border: 1px solid white;
+  border-radius: 5px;
+}
+.Services .serviceOptions .box:hover {
+  border-color: #DEE2E6;
+}
+.Services .serviceOptions .box p {
+  margin: 10px 0px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 14px;
+}
+.Services .serviceOptions .box a {
+  font-size: 35px;
+}
+.Services .serviceOptions .box #des {
+  font-size: 12px;
+  text-transform: capitalize;
+  font-weight: normal;
+}
+
+/*------------Service End-----------*/
+/*------------Achievement Start-----------*/
+.Achievement {
+  overflow: hidden;
+  background: url("../image/curve.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 100% 45%;
+}
+.Achievement .mid {
+  width: 70%;
+}
+.Achievement .mid p {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 14px;
+}
+.Achievement .mid .Achievement_Header {
+  margin-top: 70px;
+}
+.Achievement .mid .Achievement_Status a {
+  font-size: 22px;
+}
+.Achievement .mid .Achievement_Status h1 {
+  font-size: 30px;
+  color: black;
+}
+.Achievement .mid .Achievement_Status p {
+  font-size: 13px;
+  color: #4B4E50;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.Achievement .mid .Achievement_Slider {
+  width: 87%;
+  margin: auto;
+}
+.Achievement .mid .Achievement_Insurance {
+  width: 94%;
+  margin: 70px auto 70px auto;
+}
+.Achievement .mid .Achievement_Insurance .image img {
+  width: 90%;
+  height: 72%;
+}
+.Achievement .mid .Achievement_Insurance .textInput {
+  width: 100%;
+}
+.Achievement .mid .Achievement_Insurance .textInput .form-group {
+  position: relative;
+}
+.Achievement .mid .Achievement_Insurance .textInput .form-group i {
+  position: absolute;
+  top: 31%;
+  right: 3%;
+}
+.Achievement .mid .Achievement_Insurance .textInput a {
+  text-transform: uppercase;
+}
+
+/*------------Achievement End-----------*/
+
+/*# sourceMappingURL=style.css.map */
